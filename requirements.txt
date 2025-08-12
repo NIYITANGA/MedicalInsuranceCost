@@ -1,20 +1,15 @@
-# Medical Insurance Cost Prediction Model Dependencies
-# Version: 1.0
+# Medical Insurance Cost Prediction Web App Dependencies
+# For Hugging Face Spaces Deployment
 # Author: TNT
 
 # Core Data Science Libraries
 pandas>=1.5.0
 numpy>=1.21.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-
-# Machine Learning Libraries
 scikit-learn>=1.1.0
 joblib>=1.1.0
 
-# Jupyter Notebook (optional for analysis)
-jupyter>=1.0.0
-ipykernel>=6.0.0
+# Web Interface
+gradio>=4.0.0
 
 # Additional utilities
-tqdm>=4.64.0
+pathlib
