@@ -77,6 +77,7 @@ Created by **TNT** (TNThom)
 
 - Hugging Face Profile: [https://huggingface.co/TNThom](https://huggingface.co/TNThom)
 - GitHub: [Medical Insurance Cost Prediction Project](https://github.com/NIYITANGA/MedicalInsuranceCost)
+- 🌐 Live URL: https://huggingface.co/spaces/TNThom/medical-insurance-predictor
 
 ## 📄 License
 
